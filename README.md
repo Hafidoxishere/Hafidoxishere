@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hafidoxishere
+- 👀 I’m interested in software development, and solving problems.
+- 🌱 I’m currently learning to work on the project from start to finish.
+- ❤️ I love learning new stuff and improving my skills.
